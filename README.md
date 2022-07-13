@@ -4,9 +4,9 @@ This memory game with my choice of Dark Souls math, was created from the course 
 
 ### Programming languages used:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [HTML basic](https://www.w3schools.com/html/)
+* [CSS basic](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Javascript basic](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
 
 
